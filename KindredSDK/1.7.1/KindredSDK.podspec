@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
    s.authors = 'Kindred Ltd'
    s.swift_version = "5"
 
-   s.source = { :git => 'https://github.com/voneddy/Specs.git', :tag => s.version }
+   s.source = { :git => 'https://github.com/kindred-app/KindredSDK-Pod.git', :tag => '2.0.4' }
    s.platform = :ios, '11.0'
    s.module_name = 'KindredSDK'
    s.ios.deployment_target = '11.0'
